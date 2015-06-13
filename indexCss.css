@@ -7,6 +7,7 @@
 	height: 100px;
 	width: 100%;
 	position: fixed;
+	box-shadow: 3px 3px 8px black;
 }
 
 .Menu .nav a{
@@ -38,20 +39,24 @@
 }
 
 .jumbotron {
+	color: white;
 	padding-top: 140px;
-	height: 700px;
 	background-image: url('imgs/jumb2.png');
 	height: 700px;
-	background-color: #FFFFFF;
+}
+
+.jumbotron p{
+	text-shadow: 5px 5px 10px black;
 }
 
 .jumbotron .Name p{
 	font-size: 90px;
+	position: relative;
+	top: 20px;
 }
 
 .jumbotron .Descreption p{
 	font-size: 40px;
-	background-color: grey;
 }
 
 .AboutUs{
