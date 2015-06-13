@@ -9,6 +9,11 @@
 	float: left;
 }
 
+.Menu .nav a{
+	text-decoration: none;
+	color: black;
+}
+
 .nav {
 	margin:0 auto;
 }
