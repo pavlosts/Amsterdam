@@ -39,7 +39,6 @@
 
 .jumbotron {
 	padding-top: 140px;
-<<<<<<< HEAD
 	height: 700px;
 	background-color: #FFFFFF;
 }
@@ -50,11 +49,17 @@
 
 .jumbotron .Descreption p{
 	font-size: 40px;
-=======
-	background-color: grey;
->>>>>>> origin/master
 }
 
 .AboutUs{
 	background-color: #B23317;
+	height: 400px;
+}
+
+.AboutUs .Image {
+	float: left;
+}
+
+.AboutUs .About {
+	float: right;
 }
