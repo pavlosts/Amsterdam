@@ -9,6 +9,7 @@
 	position: fixed;
 	box-shadow: 3px 3px 8px black;
 	z-index: 1000;
+	opacity: 0.1;
 }
 
 .Menu .nav a{
