@@ -2,18 +2,26 @@
 	background-color: #477DFF;
 	height: 100px;
 	width: 100%;
+	position: fixed;
 }
 
-.Menu .container .Logo  img{
-	vertical-align: middle;
+.Menu  .Logo  img{
+	float: left;
+}
+
+.nav {
+	margin:0 auto;
 }
 
 .nav ul{
 	float: right;
+	padding: 20px;
 }
 
 .nav li{
 	display: inline;
+	padding: 20px;
+	font-size: 30px;
 	vertical-align: middle;
 }
 
@@ -21,8 +29,13 @@
 	text-shadow:0px 0px 1px black;
 }
 
-.Jumbotron {
-	background-color: #FFFFFF;
+.nav li:click {
+
+}
+
+.jumbotron {
+	padding-top: 140px;
+	background-color: grey;
 }
 
 .AboutUs{
