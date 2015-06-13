@@ -27,7 +27,6 @@
 	display: inline;
 	padding: 20px;
 	font-size: 30px;
-	vertical-align: middle;
 }
 
 .Menu .nav li:hover{
@@ -37,7 +36,15 @@
 .jumbotron {
 	padding-top: 140px;
 	height: 700px;
-	background-color: grey;
+	background-color: #FFFFFF;
+}
+
+.jumbotron .Name p{
+	font-size: 90px;
+}
+
+.jumbotron .Descreption p{
+	font-size: 40px;
 }
 
 .AboutUs{
