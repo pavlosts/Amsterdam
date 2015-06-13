@@ -53,7 +53,6 @@
 
 .jumbotron .Name p{
 	font-size: 90px;
-	position: relative;
 	top: 20px;
 }
 
@@ -63,7 +62,7 @@
 
 .AboutUs{
 	background-color: #B23317;
-	height: 400px;
+	height: 500px;
 }
 
 .AboutUs .Image {
@@ -73,7 +72,7 @@
 
 .AboutUs .About {
 	float: right;
-	padding: 20px 490px 0px 300px;
+	padding: 50px 490px 0px 300px;
 }
 
 .AboutUs .About h1{
@@ -81,6 +80,11 @@
 	text-shadow: 3px 3px 0.5px black;
 }
 
-.AboutUs .About p{
+.AboutUs .About p {
 	font-size: 40px;
+}
+
+.What {
+	height: 500px;
+	background-color: #ADFF28;
 }
