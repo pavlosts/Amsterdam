@@ -8,6 +8,7 @@
 	width: 100%;
 	position: fixed;
 	box-shadow: 3px 3px 8px black;
+	z-index: 1000;
 }
 
 .Menu .nav a{
