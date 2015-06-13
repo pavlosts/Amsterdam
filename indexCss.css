@@ -14,32 +14,29 @@
 	color: black;
 }
 
-.nav {
+.Menu .nav {
 	margin:0 auto;
 }
 
-.nav ul{
+.Menu .nav ul{
 	float: right;
 	padding: 20px;
 }
 
-.nav li{
+.Menu .nav li{
 	display: inline;
 	padding: 20px;
 	font-size: 30px;
 	vertical-align: middle;
 }
 
-.nav li:hover{
+.Menu .nav li:hover{
 	text-shadow:0px 0px 1px black;
-}
-
-.nav li:click {
-
 }
 
 .jumbotron {
 	padding-top: 140px;
+	height: 700px;
 	background-color: grey;
 }
 
