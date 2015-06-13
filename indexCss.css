@@ -1,3 +1,7 @@
+.All{
+	font-family: 'Raleway', sans-serif;
+}
+
 .Menu {
 	background-color: #477DFF;
 	height: 100px;
@@ -5,13 +9,13 @@
 	position: fixed;
 }
 
-.Menu  .Logo  img{
-	float: left;
-}
-
 .Menu .nav a{
 	text-decoration: none;
 	color: black;
+}
+
+.Menu  .Logo  img{
+	float: left;
 }
 
 .Menu .nav {
@@ -35,6 +39,7 @@
 
 .jumbotron {
 	padding-top: 140px;
+<<<<<<< HEAD
 	height: 700px;
 	background-color: #FFFFFF;
 }
@@ -45,6 +50,9 @@
 
 .jumbotron .Descreption p{
 	font-size: 40px;
+=======
+	background-color: grey;
+>>>>>>> origin/master
 }
 
 .AboutUs{
