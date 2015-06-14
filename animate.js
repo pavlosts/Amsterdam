@@ -13,7 +13,9 @@ $(document).ready(function(){
 		op = $('Menu').css('opacity')
 		$('.Menu').animate({'opacity':'0.9'})
 	},
-	function(op){
-		$('.Menu').animate({'opacity': '0.1'})
+	function(){
+		if($('Menu').scrollTop() > 10){
+			$('.Menu').animate({'opacity': '0.1'})
+		}
 	})
 });
