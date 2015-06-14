@@ -67,7 +67,7 @@
 
 #AboutUs{
 	background-color: white;
-	height: 400px;
+	height: 450px;
 }
 
 #AboutUs .Image {
@@ -87,4 +87,29 @@
 
 #AboutUs .About p{
 	font-size: 40px;
+}
+
+#What {
+	height: 650px;
+	background-color: #D2E8E4;
+	<!--ADFF28 και αυτο ειναι ωραιο νομιζω-->
+}
+
+#What h1 {
+	padding-top: 35px;
+	padding-bottom: 40px;
+	font-size: 80px;
+}
+
+#What img {
+	padding-bottom: 25px;
+}
+
+#What h3 {
+	font-size: 35px;
+}
+
+#What p {
+	padding: 45px;
+	max-width: 500em;
 }
