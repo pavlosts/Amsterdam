@@ -68,12 +68,12 @@
 
 .AboutUs .Image {
 	float: left;
-	padding: 50px 0px 0px 100px;
+	padding: 50px 0px 0px 300px;
 }
 
 .AboutUs .About {
 	float: right;
-	padding: 20px 490px 0px 0px;
+	padding-top: 25px;
 }
 
 .AboutUs .About h1{
