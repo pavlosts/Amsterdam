@@ -110,6 +110,6 @@
 }
 
 #What p {
-	padding: 45px;
+	padding: 0px 45px 45px 45px;
 	max-width: 500em;
 }
