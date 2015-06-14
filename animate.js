@@ -2,7 +2,7 @@ $(document).ready(function(){
 	var op = $('Menu').css('opacity');
 
 	$(window).scroll(function(){
-		if($(window).scrollTop()>1){
+		if($(window).scrollTop()>10){
 			/*$(".Menu").css( { "opacity": 1 - (($(this).scrollTop())/300) } );*/
 			$(".Menu").animate({'opacity': '0.1'})
 		}else{
