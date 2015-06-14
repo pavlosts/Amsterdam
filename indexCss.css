@@ -68,9 +68,7 @@
 
 .AboutUs .Image {
 	float: left;
-	height: 300px;
-	width: 300px;
-	padding: 75px 0px 0px 100px;
+	padding: 50px 0px 0px 100px;
 }
 
 .AboutUs .About {
