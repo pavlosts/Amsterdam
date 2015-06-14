@@ -73,7 +73,7 @@
 
 .AboutUs .About {
 	float: right;
-	padding: 20px 490px 0px 300px;
+	padding: 20px 490px 0px 0px;
 }
 
 .AboutUs .About h1{
