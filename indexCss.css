@@ -61,26 +61,26 @@
 	font-size: 40px;
 }
 
-.AboutUs{
-	background-color: #B23317;
+#AboutUs{
+	background-color: white;
 	height: 400px;
 }
 
-.AboutUs .Image {
+#AboutUs .Image {
 	float: left;
 	padding: 50px 0px 0px 300px;
 }
 
-.AboutUs .About {
+#AboutUs .About {
 	float: right;
 	padding-top: 25px;
 }
 
-.AboutUs .About h1{
+#AboutUs .About h1{
 	font-size: 80px;
 	text-shadow: 3px 3px 0.5px black;
 }
 
-.AboutUs .About p{
+#AboutUs .About p{
 	font-size: 40px;
 }
