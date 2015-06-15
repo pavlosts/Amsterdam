@@ -2,6 +2,11 @@
 	font-family: 'Raleway', sans-serif;
 }
 
+h1{
+	font-size: 80px;
+	text-shadow: 3px 3px 0.5px grey;
+}
+
 .Menu {
 	background-color: #3258B2;
 	height: 100px;
@@ -81,10 +86,8 @@
 }
 
 #AboutUs .About h1{
-	font-size: 80px;
 	width: 60%;
 	text-align: center;
-	text-shadow: 3px 3px 0.5px black;
 }
 
 #AboutUs .About p{
@@ -102,11 +105,12 @@
 #What h1 {
 	padding-top: 35px;
 	padding-bottom: 40px;
-	font-size: 80px;
+	
 }
 
 #What img {
-	padding-bottom: 25px;
+	margin-bottom: 25px;
+	box-shadow: 2px 2px 7px grey;
 }
 
 #What h3 {
@@ -116,4 +120,22 @@
 #What p {
 	padding: 0px 45px 45px 45px;
 	max-width: 500em;
+}
+
+#Work{
+	background-color: #E28974;
+}
+
+#Work .row{
+	padding: 30px 0px 20px 0px;
+	margin-left: 10%;
+}
+
+#Work .Image{
+	width: 40%;
+}
+
+#Work .About{
+	text-align: center;
+	width: 40%;
 }
