@@ -130,7 +130,7 @@ h1{
 
 #Work{
 	background-color: #E28974;
-	height: 550px;
+	height: auto;
 	margin-top: -20px;
 }
 
@@ -142,9 +142,19 @@ h1{
 	font-size: 16px;
 }
 
+#Work img {
+	border-radius: 3px;
+}
+
 #Work .row{
 	padding: 30px 0px 20px 0px;
 	margin-left: 10%;
+}
+
+#Work .border {
+	border: 1px solid black;
+	width:100%;
+	opacity: 0.05;
 }
 
 #Work .Image{
