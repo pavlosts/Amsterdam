@@ -9,6 +9,10 @@ h1{
 	text-align: center;
 }
 
+img{
+	box-shadow: 2px 2px 7px #3D3D3D;
+}
+
 .Menu {
 	background-color: #3258B2;
 	height: 100px;
@@ -27,6 +31,7 @@ h1{
 
 .Menu  .Logo  img{
 	float: left;
+	box-shadow: 0px 0px 0px black;
 }
 
 .Menu .nav {
@@ -83,7 +88,6 @@ h1{
 
 #AboutUs img{
 	border-radius: 5px;
-	box-shadow: 2px 2px 7px darkgrey;
 }
 
 #AboutUs .About {
@@ -114,7 +118,6 @@ h1{
 
 #What img {
 	margin-bottom: 25px;
-	box-shadow: 2px 2px 7px grey;
 }
 
 #What h3 {
@@ -129,7 +132,7 @@ h1{
 
 #Work{
 	background-color: #E28974;
-	height: 550px;
+	height: auto;
 	margin-top: -20px;
 }
 
@@ -148,6 +151,10 @@ h1{
 
 #Work .Image{
 	width: 40%;
+}
+
+#Work img{
+	border-radius: 5px;
 }
 
 #Work .About{
