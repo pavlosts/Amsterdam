@@ -124,12 +124,21 @@ h1{
 #What p {
 	padding: 0px 45px 45px 45px;
 	max-width: 500em;
+	font-size: 16px;
 }
 
 #Work{
 	background-color: #E28974;
 	height: 550px;
 	margin-top: -20px;
+}
+
+#Work h2{
+	font-size: 35px;
+}
+
+#Work p{
+	font-size: 16px;
 }
 
 #Work .row{
