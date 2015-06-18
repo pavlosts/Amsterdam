@@ -1,5 +1,6 @@
 .All{
 	font-family: 'Raleway', sans-serif;
+	width: 100%;
 }
 
 h1{
@@ -91,7 +92,7 @@ h1{
 }
 
 #AboutUs .About h1{
-	text-align: center;
+	position: center;
 }
 
 #AboutUs .About p{
@@ -125,8 +126,14 @@ h1{
 	max-width: 500em;
 }
 
-/*#Work{
+#Work{
 	background-color: #E28974;
+	height: 550px;
+	margin-top: -20px;
+}
+
+#Work .Out h1 {
+	text-align: center;
 }
 
 #Work .row{
@@ -141,4 +148,4 @@ h1{
 #Work .About{
 	text-align: center;
 	width: 40%;
-}*/
+}
