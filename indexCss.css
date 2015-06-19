@@ -1,6 +1,8 @@
 .All{
 	font-family: 'Raleway', sans-serif;
 	width: 100%;
+	max-width: 100%;    
+    overflow-x: hidden;
 }
 
 h1{
@@ -195,5 +197,5 @@ h1{
 }
 
 .footer h2 {
-	font-size: 90px;
+	font-size: 15px;
 }
