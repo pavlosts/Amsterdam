@@ -10,7 +10,8 @@ h1{
 }
 
 .Menu {
-	background-color: #3258B2;
+	background-color: #2CA5BF;
+	<!--#3258B2-->
 	height: 100px;
 	width: 100%;
 	position: fixed;
@@ -164,4 +165,23 @@ h1{
 #Work .About{
 	text-align: center;
 	width: 40%;
+}
+
+#Contact {
+	background-color: #C2E78E;
+	<!--#78B219-->
+	height: auto;
+}
+
+#Contact .row {
+	padding: 30px 0px 20px 0px;
+}
+
+#Contact .Info ul{
+	list-style-type: none;
+}
+
+#Contact .Social a{
+	text-decoration: none;
+	color: black;
 }
