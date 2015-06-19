@@ -185,3 +185,15 @@ h1{
 	text-decoration: none;
 	color: black;
 }
+
+.footer {
+	color: white;
+	clear: both;
+	position: relative;
+	height: 50px;
+	background-color: #3d3d3d;
+}
+
+.footer h2 {
+	font-size: 90px;
+}
