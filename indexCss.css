@@ -192,10 +192,8 @@ h1{
 	color: white;
 	clear: both;
 	position: relative;
-	height: 50px;
+	height: auto;
 	background-color: #3d3d3d;
-}
-
-.footer h2 {
-	font-size: 15px;
+	text-align: center;
+	font-size: 16px;
 }
